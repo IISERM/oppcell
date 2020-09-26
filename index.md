@@ -1,5 +1,6 @@
 ---
 title: Home
+number: 1
 ---
 
 # About IISER Mohali
