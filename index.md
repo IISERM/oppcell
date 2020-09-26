@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Opportunity Cell
+page_title: Home
 number: 1
 ---
 
