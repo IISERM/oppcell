@@ -19,6 +19,8 @@ Cell: +91 98721 25912
 
 ## Student Coordinator
 
+![abhijeet](./images/abhijeet.jpg)
+
 Abhijit Bhalachandra
 
 Email: [ms16035[at]iisermohali[dot]ac[dot]in](mailto:ms16035@iisermohali.ac.in)
