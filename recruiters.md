@@ -3,7 +3,7 @@ title: For Recruiters
 number: 3
 ---
 
-# What is IISER Mohali?
+# Why IISER Mohali?
 
 IISER Mohali is one of the top science and research institutes in India, and attracts the best minds across the country. The selection procedures for the various programmes on campus are rigorous, and includes clearing and securing ranks in highly competitive examinations including JEE, KVPY, GATE, JEST, and NET among others. Most undergraduate students are Government of India scholars, and are recipients of the INSPIRE and KVPY fellowships. Postgraduate and research students are also recipients of numerous prestigious fellowships including INSPIRE and JRF.
 
