@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (max-width: 64em) and (min-width: 42em) {
+
+@media screen and (max-width: 42em){
     .page-header {
-        padding: 1.5rem 2rem;
+        padding: 2rem 1rem;
     }
+}
+.page-header {
+    padding: 1.5rem 2rem;
 }
 
 img {
