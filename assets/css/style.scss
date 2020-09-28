@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (max-width: 64em) and (min-width: 42em) {
+    .page-header {
+        padding: 1.5rem 2rem;
+    }
+}
+
+img {
+    width: 20%;
+    min-width: 110px;
+}
