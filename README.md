@@ -1,4 +1,4 @@
-# Opportuinty Cell Website
+# Opportunity Cell Website
 
 ## Important Info
 
