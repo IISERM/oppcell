@@ -1,6 +1,4 @@
-theme: jekyll-theme-cayman
 title: IISER Mohali Opportunity Cell
-description: ""
+description: "Opportunity Cell"
 show_downloads: false
-github:
-  is_project_page: false
+baseurl: "/students/oppcell"

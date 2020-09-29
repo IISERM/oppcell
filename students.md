@@ -1,6 +1,6 @@
 ---
 title: For Students
-number: 2
+nav_index: 2
 ---
 
 Students opting for the campus placement process (for full-time offers) are required to abide by the Rules and Regulations of the Opportunity Cell.

@@ -1,6 +1,6 @@
 ---
 title: For Recruiters
-number: 3
+nav_index: 3
 ---
 
 # Why IISER Mohali

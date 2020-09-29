@@ -1,12 +1,11 @@
 ---
 title: Contact Us
-number: 4
+nav_index: 4
 ---
 
 # Opportunity Cell
 
-Email: oppcell@iisermohali.ac.in
-g
+Email: [oppcell[at]iisermohali[dot]ac[dot]in](mailto:oppcell@iisermohali.ac.in)
 
 ## Faculty Coordinator
 
@@ -20,7 +19,7 @@ Cell: +91 98721 25912
 
 ## Student Coordinator
 
-![abhijeet](./images/abhijeet.jpg)
+![abhijeet](images/abhijeet.jpg)
 
 Abhijit Bhalachandra
 

@@ -1,7 +1,7 @@
 ---
 title: IISER Mohali Opportunity Cell
-page_title: Home
-number: 1
+nav_title: Home
+nav_index: 1
 ---
 
 # IISER Mohali
