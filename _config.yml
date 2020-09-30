@@ -1,4 +1,4 @@
 title: IISER Mohali Opportunity Cell
 description: "Opportunity Cell"
 show_downloads: false
-#baseurl: "/students/oppcell"
+baseurl: "/students/oppcell"
