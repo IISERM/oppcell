@@ -11,7 +11,7 @@ Students opting for the campus placement process (for full-time offers) are requ
    1. Only students expecting to graduate from IISER Mohali by the end of the academic year 2020-21 through the BS-MS/PhD/Int-PhD/Post-doc programs and are seeking employment may register for campus placements with the Opportunity Cell.
    2. Placements will happen round the year, and registered students will be notified through IISER Mohali webmail whenever companies list opportunities through the Opportunity Cell.
    3. Campus placement is a facility provided for the students by the Opportunity Cell, IISER Mohali. It is not mandatory for all students to register for campus placement. Students not interested in placement are advised not to register for campus placement.
-   4. Students having 4 or more uncleared ‘F’ grades are not permitted to register for placement.
+   4. Students having 2 or more uncleared ‘F’ grades are not permitted to register for placement.
    5. In addition to the aforementioned rules, a company may have its own eligibility criteria (CPI, major branch, minor, etc.), and only registered students satisfying all criteria will be allowed to apply for the role offered by the company.
    6. If any registered student is found contacting the recruiting company at his own discretion, he/she will be debarred from the campus placement process.
 
@@ -28,7 +28,7 @@ Students opting for the campus placement process (for full-time offers) are requ
    5. Registered students must have their identity card with them throughout the placement process.
 
 4. **Job Offers**
-   1. If any student has accepted a campus placement job with an offer of CTC 6 lakhs or more, the student will be automatically de-registered from the campus placement process.
+   1. If any student has accepted a campus placement job with an offer of CTC 5.5 lakhs or more, the student will be automatically de-registered from the campus placement process.
    2. Each registered student is eligible for only one job offer.
    3. If a student receives more than one offer, and if there is a delay in the announcement of results by some companies, the student is bound to accept/reject the job offer of the company whose results are declared in time.
    4. Students are required to communicate the acceptance/rejection of the offer within 24 hours on the day following the release of the offer.
