@@ -19,6 +19,6 @@ The Opportunity Cell at IISER Mohali holds placements round the year and is the 
 
 Companies interested in recruiting from IISER Mohali are requested to fill-up the online [Job Notification Form](). A representative from the Opportunity Cell will get back to the recruiter as soon as possible once a request has been made.
 
-For the detailed Rules and Regulations for students opting for the placement process, please visit [For Students](students#content).
+For the detailed Rules and Regulations for students opting for the placement process, please visit [For Students](students.html#content).
 
-For any queries, please visit [Contact Us](contact#content).
+For any queries, please visit [Contact Us](contact.html#content).

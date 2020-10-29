@@ -3,14 +3,28 @@ title: For Students
 nav_index: 2
 ---
 
-Students opting for the campus placement process (for full-time offers) are required to abide by the Rules and Regulations of the Opportunity Cell.
+## Academic Mentorship Facility
 
-## Rules and Regulations
+In addition to notifying students regarding various academic opportunities, including summer and winter internships, semester-long projects, and PhD opportunities among other further-study programmes, the Opportunity Cell also looks to put in touch students wanting to pursue a career in academia with potential mentors (including faculty and alumni).
+
+Interested students wanting to join a research programme after graduating from their respective programme at IISER Mohali, and wanting to avail this facility are required to register with the Opportunity Cell for Academic Mentorship.
+
+[Academic Mentorship 2020-21 registration form](https://forms.gle/4hPXLfk149gcGAMs5)
+
+## Campus Placement Facility
+
+The Opportunity Cell offers campus placement facility for students who are looking to transition into industry roles after graduating from their respective programme at IISER Mohali. Interested students are required to register with the Opportunity Cell for Campus Placement.
+
+Please read the Rules & Regulations of the placement process before registering
+
+### Rules and Regulations
+
+Students opting for the campus placement process (for full-time offers) are required to abide by the Rules and Regulations of the Opportunity Cell.
 
 1. **Eligibility and Registration**
    1. Only students expecting to graduate from IISER Mohali by the end of the academic year 2020-21 through the BS-MS/PhD/Int-PhD/Post-doc programs and are seeking employment may register for campus placements with the Opportunity Cell.
    2. Placements will happen round the year, and registered students will be notified through IISER Mohali webmail whenever companies list opportunities through the Opportunity Cell.
-   3. Campus placement is a facility provided for the students by the Opportunity Cell, IISER Mohali. It is not mandatory for all students to register for campus placement. Students not interested in placement are advised not to register for campus placement.
+   3. Campus placement is a facility provided for the students by the Opportunity Cell, IISER Mohali. It is **not mandatory** for all students to register for campus placement. Students not interested in placement and/or looking to pursue a further-study programme on graduation are advised not to register for campus placement.
    4. Students having 2 or more uncleared ‘F’ grades are not permitted to register for placement.
    5. In addition to the aforementioned rules, a company may have its own eligibility criteria (CPI, major branch, minor, etc.), and only registered students satisfying all criteria will be allowed to apply for the role offered by the company.
    6. If any registered student is found contacting the recruiting company at his own discretion, he/she will be debarred from the campus placement process.
@@ -35,3 +49,8 @@ Students opting for the campus placement process (for full-time offers) are requ
 
 5. **Other**
    1. For all matters not covered by the above rules and regulations, the Opportunity Cell will take appropriate decisions at its discretion. The decision taken by the Opportunity Cell shall be binding on all students.
+
+### Placement Registration forms for Students
+
+- [Campus Placement 2020-21 registration form (BS-MS)](https://forms.gle/KkLo17ERyHpLxX7e8)
+- Campus Placement 2020-21 registration form (PhD/int-PhD/Post-doc): TBA
