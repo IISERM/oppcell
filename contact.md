@@ -9,7 +9,7 @@ Email: [oppcell[at]iisermohali[dot]ac[dot]in](mailto:oppcell@iisermohali.ac.in)
 
 ## Faculty Coordinator
 
-![dr. AC](https://www.iisermohali.ac.in/images/faculty/abhishek.jpg)
+![Dr. Abhishek Chaudhari](https://www.iisermohali.ac.in/images/faculty/abhishek.jpg)
 
 Dr. Abhishek Chaudhari
 
@@ -19,26 +19,38 @@ Cell: +91 98721 25912
 
 ## Student Coordinators
 
-![abhijeet](images/abhijeet.jpg)
+![mp1](images/mp2.jpeg)
 
-Abhijit Bhalachandra
+Madhav Pitaliya
 
-Email: [ms16035[at]iisermohali[dot]ac[dot]in](mailto:ms16035@iisermohali.ac.in)
+Email: [ms17002\[at\]iisermohali\[dot\]ac\[dot\]in](ms17002@iisermohali.ac.in)
 
-Cell: +91 88842 56153
+Contact: 917597653834
 
-![kausthub](images/kaustubh.jpeg)
+Linkedin Profile: [https://www.linkedin.com/in/madhav-pitaliya-aa8571154/](https://www.linkedin.com/in/madhav-pitaliya-aa8571154/)
 
-Kausthub Keshava
+![bk](images/bk.jpeg)
 
-Email: [ms16010[at]iisermohali[dot]ac[dot]in](ms16010@iisermohali.ac.in)
+Bal Krishan
 
-Cell: +91 70195 17199
+Email: [ph19051\[at\]iisermohali\[dot\]ac\[dot\]in](ph19051@iisermohali.ac.in)
+
+Email: [yadavbalkrishan0\[at\]gmail\[dot\]com](yadavbalkrishan0@gmail.com)
+
+Cell: 7696631722
+
+## Past Student Coordinators
+
+### 2020-21
+
+- Abhijit Bhalachandra - ms16035
+- Kausthub Keshava - ms16010
 
 ## Website Builder
 
-![dhruva](https://avatars1.githubusercontent.com/u/44899822?v=4)
+![Dhruva Sambrani](https://avatars1.githubusercontent.com/u/44899822?v=4)
 
 Dhruva Sambrani
 
 Personal Website: [https://dhruvasambrani.github.io/](https://dhruvasambrani.github.io/)
+
