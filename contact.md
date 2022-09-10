@@ -19,27 +19,54 @@ Cell: +91 98721 25912
 
 ## Student Coordinators
 
-![mp1](images/mp2.jpeg)
+### Shreya Singh
 
-Madhav Pitaliya
+![Shreya Singh](images/ss.jpg)
 
-Email: [ms17002\[at\]iisermohali\[dot\]ac\[dot\]in](ms17002@iisermohali.ac.in)
+**Contact**:
 
-Contact: 917597653834
+- Email: [ms19055\[at\]iisermohali\[dot\]ac\[dot\]in](ms19055@iisermohali.ac.in)
+- Cell: 9958521594
+- Linkedin Profile: <https://www.linkedin.com/in/shreya-singh-bb35121aa>
 
-Linkedin Profile: [https://www.linkedin.com/in/madhav-pitaliya-aa8571154/](https://www.linkedin.com/in/madhav-pitaliya-aa8571154/)
+### Divyanshu Sahu
 
-![bk](images/bk.jpeg)
+![Divyanshu Sahu](images/ds.jpg)
 
-Bal Krishan
+**Contact**:
 
-Email: [ph19051\[at\]iisermohali\[dot\]ac\[dot\]in](ph19051@iisermohali.ac.in)
+- Email: [ms18153\[at\]iisermohali\[dot\]ac\[dot\]in](ms18153@iisermohali.ac.in)
+- Cell: 8327730019
+- Linkedin Profile: <https://www.linkedin.com/in/divyanshu-sahu-8b7b311b1>
 
-Email: [yadavbalkrishan0\[at\]gmail\[dot\]com](yadavbalkrishan0@gmail.com)
+## Team Members
 
-Cell: 7696631722
+### Rishab Panda
 
-## Past Student Coordinators
+![Rishab Panda](images/rp.jpg)
+
+**Contact**:
+
+- Email: [ms19008\[at\]iisermohali\[dot\]ac\[dot\]in](ms19008@iisermohali.ac.in)
+- Cell: 7978039012
+- Linkedin Profile: <https://www.linkedin.com/in/rishab-panda-478641190>
+
+### Akhshita Bhat
+
+![Akhshita Bhat](images/ab.jpg)
+
+**Contact**:
+
+- Email: [ms20063\[at\]iisermohali\[dot\]ac\[dot\]in](ms20063@iisermohali.ac.in)
+- Cell: 6006976730
+- Linkedin Profile: <https://www.linkedin.com/in/akhshita-bhat-ba582a244>
+
+## Past Student Coordinators and Team Members
+
+### 2021-22
+
+- Madhav Pitaliya - ms17002
+- Bal Krishan - ph19051
 
 ### 2020-21
 
