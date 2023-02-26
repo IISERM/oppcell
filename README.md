@@ -4,9 +4,7 @@
 
 ### Markdown syntax
 
-All front matter is written in Markdown.
-
-[This page](https://guides.github.com/features/mastering-markdown/) has further instruction. This is so that editing the front matter is easy and does not require expert understanding of html.
+All front matter is written in [Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Page variables
 
@@ -27,19 +25,11 @@ If viewing on Github, comment out the line as `# baseurl: ...`
 
 ### Ubuntu
 
-1. Download/clone this repo, or one of the releases
-2. cd to the downloaded repo.
-3. Run `bash ./preinstall`. It will install Ruby, and the Jekyll and Bundler gems and initialize the gems. If you prefer to install them yourself, go to [Others](#others). You can skip certain steps if you have already performed them before.
+1. Clone repo and cd
+2. Follow the steps as described in the [Jekyll installation page](https://jekyllrb.com/docs/installation/)
+3. Run `bundle install` then, `bundle update`
 4. Run `bundle exec jekyll serve`
 5. Open the browser to the server address as outputted in the previous command.
 6. You should be able to see the site. Make changes as necessary, and check using `bundle exec jekyll serve`.
 7. **When you are happy, use the files generated in `_site` and place in the production server.** Make sure you have set the `baseurl` in `_config.yaml` as discussed in [Important Info](#important-info).
 8. Make sure you update `README.md` if necessary.
-9. Done!
-
-### Others
-
-1. Follow the steps as described in the [Jekyll installation page](https://jekyllrb.com/docs/installation/)
-2. cd to the repo
-3. Run `bundle install` then, `bundle update`
-4. Continue with Step 4 of [Ubuntu instructions](#ubuntu)
