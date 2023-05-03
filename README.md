@@ -21,11 +21,9 @@ At the start of `*.md` files, there will be a section delimited by `---`. These 
 Set the `baseurl` variable in `config.yaml` according to wherever you are going to host this site from relative to the root. For example, if the website is to be hosted on `https://web.iisermohali.ac.in/students/oppcell`, then set `baseurl: "/students/oppcell"`.
 If viewing on Github, comment out the line as `# baseurl: ...`
 
-## Updating and Publishing
+## Updating
 
-### Ubuntu
-
-1. Clone repo and cd
+1. Clone repo and cd into it.
 2. Follow the steps as described in the [Jekyll installation page](https://jekyllrb.com/docs/installation/)
 3. Run `bundle install` then, `bundle update`
 4. Run `bundle exec jekyll serve`
@@ -33,3 +31,7 @@ If viewing on Github, comment out the line as `# baseurl: ...`
 6. You should be able to see the site. Make changes as necessary, and check using `bundle exec jekyll serve`.
 7. **When you are happy, use the files generated in `_site` and place in the production server.** Make sure you have set the `baseurl` in `_config.yaml` as discussed in [Important Info](#important-info).
 8. Make sure you update `README.md` if necessary.
+
+## Publishing
+
+Publishing is done by using `sftp` to put files generated in `_site` onto the oppcell server. The login details needs to be provided by the faculty incharge of the OppCell to the webdev. Contact the CC for the same.
